@@ -1,4 +1,18 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bikram+....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/bikram-shaw-63a749255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="/" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 # 💫 About Me:
 🔭 I’m currently working on: Mastering full-stack web development and building cool projects!<br>👯 I’m looking to collaborate on: Exciting web apps, open-source projects, or anything innovative in tech!<br>🤝 I’m looking for help with: Advanced backend development, performance optimization, or cutting-edge frameworks.<br>🌱 I’m currently learning: Full-stack technologies, best coding practices, and staying up-to-date with tech trends!<br>💬 Ask me about: Web development, coding, and my journey into programming since childhood.<br>🚀 Fun fact: I started programming as a kid and have been passionate about it ever since!<br><br>
 
