@@ -26,7 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=Bikram-sGit00&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-  # 🧑🏻‍💻Tech Stack:
+  # 🧑🏻‍💻🚀Tech Stacks:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,materialui,react,redux,nextjs,angular,svelte,threejs,vite,nodejs,npm,express,dotnet,postgres,mysql,mongodb,firebase,redis,graphql,python,java,cpp,c,git,github,figma" />
 </p>
