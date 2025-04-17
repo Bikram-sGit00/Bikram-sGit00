@@ -28,7 +28,7 @@
 
   # 🧑🏻‍💻🚀Tech Stacks:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,materialui,react,redux,nextjs,angular,svelte,threejs,vite,nodejs,npm,express,dotnet,postgres,mysql,mongodb,firebase,redis,graphql,python,java,cpp,c,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,materialui,react,redux,nextjs,angular,threejs,vite,nodejs,npm,express,dotnet,postgres,mysql,mongodb,firebase,redis,graphql,python,java,cpp,c,git,github,figma" />
 </p>
 
 <p align="center">
