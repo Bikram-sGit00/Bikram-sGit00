@@ -17,9 +17,25 @@
 <br clear="both" />
 <br/>
 
+<h3 align="center">🚀 Full Stack Developer | 💡 DSA Enthusiast | ✨ Problem Solver</h3>
+
 <p align="center">
   <a href="https://github.com/Bikram-sGit00">
     <img src="https://img.shields.io/github/followers/Bikram-sGit00?label=Follow&style=social">
   </a>
   <img src="https://komarev.com/ghpvc/?username=Bikram-sGit00&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
+
+  # 🧑🏻‍💻Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,materialui,react,redux,nextjs,angular,angularjs,svelte,threejs,vite,nodejs,npm,express,nodemon,dotnet,postgres,mysql,mongodb,firebase,redis,graphql,python,java,cpp,c,git,github,vscode,figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/InterviewBit-12100E?style=for-the-badge&logo=interviewbit&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
+
+
