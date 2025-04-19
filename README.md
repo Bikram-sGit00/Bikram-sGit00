@@ -59,14 +59,16 @@
   <img src="https://skillicons.dev/icons?i=git" title="Git 🧬" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub 🐱" />
   <img src="https://skillicons.dev/icons?i=figma" title="Figma 🎨" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel ⚡" />
+<img src="https://skillicons.dev/icons?i=netlify" title="Netlify 🌐" />
 </p>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/InterviewBit-12100E?style=for-the-badge&logo=interviewbit&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://leetcode.com/u/_Bikram/"><img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/_Bikram/"><img src="https://img.shields.io/badge/InterviewBit-12100E?style=for-the-badge&logo=interviewbit&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/_Bikram/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/_Bikram/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 
@@ -74,24 +76,30 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+<h3 align="center">📊 GitHub Stats & Activity</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bikram-sGit00&theme=github_dark&show_icons=true&hide_border=false&border_radius=10" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram-sGit00&layout=compact&theme=github_dark&hide_border=false&border_radius=10" height="180em" />
-</div>
+<p align="center">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikram-sGit00&theme=tokyonight&hide_border=false" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bikram-sGit00&theme=github_dark&show_icons=true&hide_border=true&border_radius=8" height="180em" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram-sGit00&layout=compact&theme=github_dark&hide_border=true&border_radius=8" height="180em" />
+</p>
+
+<p align="center"><b>🔥 Streaks That Build Discipline</b></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikram-sGit00&theme=tokyonight&hide_border=true&border_radius=8" height="180em" />
+</p>
 
 ---
 
-### 🏆 GitHub Trophies
+
+<h3 align="center">🏆 GitHub Trophy Wall</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bikram-sGit00&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bikram-sGit00&theme=matrix&no-frame=true&no-bg=true&margin-w=20&row=2&column=4" />
 </p>
+
+
 
 ---
 <h3 align="center">📬 Connect with Me</h3>
