@@ -62,11 +62,95 @@
 </p>
 
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/InterviewBit-12100E?style=for-the-badge&logo=interviewbit&logoColor=white" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </p>
 
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bikram-sGit00&theme=github_dark&show_icons=true&hide_border=false&border_radius=10" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram-sGit00&layout=compact&theme=github_dark&hide_border=false&border_radius=10" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikram-sGit00&theme=tokyonight&hide_border=false" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bikram-sGit00&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+<h3 align="center">📬 Connect with Me</h3>
+
+<div align="center">
+  <a href="mailto:bikramsgit00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://x.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/bikram-shaw-63a749255" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/Bikram-sGit00" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+
+
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Bikram-sGit00/Bikram-sGit00/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+### 🌐 3D Contribution Globe
+
+<!-- This section is currently using the same snake SVG. Replace with the globe below if you prefer: -->
+
+<!-- For 3D Globe using a service like GitHub Globe, use:
+  https://skyline.github.com/Bikram-sGit00/2024
+-->
+<p align="center">
+  <img src="https://github.com/Bikram-sGit00/Bikram-sGit00/blob/output/github-contribution-grid-snake.svg" alt="3D Globe of Contributions" />
+</p>
+
+
+
+
+
+### 📬 Connect with Me
+
+<p align="center">
+  <img src="https://github.com/Bikram-sGit00/Bikram-sGit00/blob/main/assets/connect-section.png" alt="Connect with Me badges" />
+</p>
 
