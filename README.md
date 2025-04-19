@@ -26,10 +26,41 @@
   <img src="https://komarev.com/ghpvc/?username=Bikram-sGit00&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-  # 🧑🏻‍💻🚀Tech Stacks:
+## 🧑🏻‍💻🚀Tech Stacks :
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,materialui,react,redux,nextjs,angular,threejs,vite,nodejs,npm,express,dotnet,postgres,mysql,mongodb,firebase,redis,graphql,python,java,cpp,c,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript ✨" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript ⚡" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML 🧱" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS 🎨" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS 🌬️" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap 🥾" />
+  <img src="https://skillicons.dev/icons?i=materialui" title="Material UI 🧩" />
+  <img src="https://skillicons.dev/icons?i=react" title="React ⚛️" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux 🌀" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js ⏭️" />
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular 🚦" />
+  <img src="https://skillicons.dev/icons?i=threejs" title="Three.js 🎲" />
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite ⚡" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js 🌿" />
+  <img src="https://skillicons.dev/icons?i=npm" title="NPM 📦" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express 🚂" />
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET 🧰" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL 🐘" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL 🐬" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB 🍃" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase 🔥" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis 🧠" />
+  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL 🕸️" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python 🐍" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java ☕" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++ ➕➕" />
+  <img src="https://skillicons.dev/icons?i=c" title="C 💻" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git 🧬" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub 🐱" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma 🎨" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
