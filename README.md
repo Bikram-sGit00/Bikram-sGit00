@@ -105,8 +105,8 @@
 
 <h3 align="center"><b>📊 GitHub Stats & Activity</b></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bikram-sGit00&theme=github_dark&show_icons=true&hide_border=true&border_radius=8" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram-sGit00&layout=compact&theme=github_dark&hide_border=true&border_radius=8" height="180em" />
+<img src="./profile/stats.svg" height="180em" />
+<img src="./profile/top-langs.svg" height="180em" />
 </p>
 
 <p align="center"><b><i>🔥 Streaks That Build Discipline</i></b></p>
