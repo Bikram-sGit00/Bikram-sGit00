@@ -109,7 +109,7 @@
 <img src="./profile/top-langs.svg" height="180em" />
 </p>
 
-<p align="center"><b><i>🔥 Streaks That Build Discipline</i></b></p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikram-sGit00&theme=tokyonight&hide_border=true&border_radius=8" height="180em" />
 </p>
