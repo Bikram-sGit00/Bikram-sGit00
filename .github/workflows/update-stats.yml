@@ -36,7 +36,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Bikram-sGit00
-          file: profile/trophy.svg 
+          file: profile/trophy.svg
+          theme: tokyonight 
           token: ${{ secrets.STATS_TOKEN }} 
 
       - name: Commit generated cards
